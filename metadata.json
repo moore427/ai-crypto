@@ -1,0 +1,5 @@
+{
+  "name": "FinMind AI 智能選股大師",
+  "description": "專業的台股、加密貨幣與貴金屬分析工具。結合技術指標與 Gemini 3 AI 即時市場資訊，提供深度的投資洞察。",
+  "requestFramePermissions": []
+}
